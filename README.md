@@ -15,6 +15,8 @@ Guerratron GitHub last proyects
 > It shows geometric calculations (areas, perimeters, ...) and supports a free drawn mode *"freehand"*; also it has a graphical interface with buttons bar and an options window where display / modify some of the multiple parameters supported.  
 
 ## rsLIB:
-[![rslib logo](img/rsLIB_logo.png "rsLIB GitHub page")](http://guerratron.github.io/rsLIB "rsLIB page")
+>[![rslib logo](img/rsLIB_logo.png "rsLIB GitHub page")](http://guerratron.github.io/rsLIB "rsLIB page")
+> It's a *HTML* **scripts** loader.  
+> This inserts the linked-scripts parameters in the HTML-HEAD section DYNAMIC and SYNCHRONOUSLY, but without AJAX. It loads Scripts (js, json, ...) and even style sheets (CSS).
 
 > Author: [![guerratron](img/torotron_logo.png "by Guerratron")](mailto://dinertron@gmail.com "by Guerratron")
