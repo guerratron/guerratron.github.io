@@ -5,12 +5,12 @@ guerratron github web site
 Guerratron GitHub last proyects
 
 ## DOMbasic:
-["dombasic logo" img/DOMbasic_logo.png] <http://guerratron.github.io/DOMbasic>
+[![dombasic logo](img/DOMbasic_logo.png "DOMbasic GitHub page")](http://guerratron.github.io/DOMbasic "DOMbasic page")
 
 ## CanvasShapes:
-["canvasshapes logo" img/canvasShapes_logo.png] <http://guerratron.github.io/canvasShapes>
+[![canvasshapes logo](img/canvasShapes_logo.png "CanvasShapes GitHub page")](http://guerratron.github.io/canvasShapes "CanvasShapes page")
 
 ## rsLIB:
-["rslib logo" img/rsLIB_logo.png] <http://guerratron.github.io/rsLIB>
+[![rslib logo](img/rsLIB_logo.png "rsLIB GitHub page")](http://guerratron.github.io/rsLIB "rsLIB page")
 
-<http://guerratron.github.io> by Guerratron
+> Author: [![guerratron](img/torotron_logo.png "by Guerratron")](mailto://dinertron@gmail.com "by Guerratron")
