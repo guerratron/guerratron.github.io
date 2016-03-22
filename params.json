@@ -1,6 +1,6 @@
 {
   "name": "Guerratron.GitHub.io",
   "tagline": "guerratron github web site",
-  "body": "# guerratron.github.io\r\nguerratron github web site  \r\n\r\n# PROYECTS:\r\nGuerratron GitHub last proyects\r\n\r\n## DOMbasic: <http://guerratron.github.io/DOMbasic>\r\n\r\n## CanvasShapes: <http://guerratron.github.io/canvasShapes>\r\n\r\n## rsLIB: <http://guerratron.github.io/rsLIB>\r\n\r\n<http://guerratron.github.io> by Guerratron\r\n",
+  "body": "# guerratron.github.io\r\nguerratron github web site  \r\n\r\n# PROYECTS:\r\nGuerratron GitHub last proyects\r\n\r\n## DOMbasic:\r\n[![dombasic logo](img/DOMbasic_logo.png \"DOMbasic GitHub page\")](http://guerratron.github.io/DOMbasic \"DOMbasic page\")\r\n\r\n## CanvasShapes:\r\n[![canvasshapes logo](img/canvasShapes_logo.png \"CanvasShapes GitHub page\")](http://guerratron.github.io/canvasShapes \"CanvasShapes page\")\r\n\r\n## rsLIB:\r\n[![rslib logo](img/rsLIB_logo.png \"rsLIB GitHub page\")](http://guerratron.github.io/rsLIB \"rsLIB page\")\r\n\r\n> Author: [![guerratron](img/torotron_logo.png \"by Guerratron\")](mailto://dinertron@gmail.com \"by Guerratron\")\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
