@@ -5,7 +5,9 @@ guerratron github web site
 Guerratron GitHub last proyects
 
 ## DOMbasic:
-[![dombasic logo](img/DOMbasic_logo.png "DOMbasic GitHub page")](http://guerratron.github.io/DOMbasic "DOMbasic page")
+>[![dombasic logo](img/DOMbasic_logo.png "DOMbasic GitHub page")](http://guerratron.github.io/DOMbasic "DOMbasic page")
+>PHP package to create dynamic __DOM__ elements.  
+>It follow the __OOP__ paradigm, implemented __SINGLETON__ patterns, _magical_ methods, contains error control ('own exceptions'), _chaining_ methods, optimized memory and resources, ...  
 
 ## CanvasShapes:
 [![canvasshapes logo](img/canvasShapes_logo.png "CanvasShapes GitHub page")](http://guerratron.github.io/canvasShapes "CanvasShapes page")
