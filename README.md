@@ -6,7 +6,7 @@ Guerratron GitHub last proyects
 
 ## DOMbasic: <http://guerratron.github.io/DOMbasic>
 
-## CanvasShapes: <http://guerratron.github.io/CanvasShapes>
+## CanvasShapes: <http://guerratron.github.io/canvasShapes>
 
 ## rsLIB: <http://guerratron.github.io/rsLIB>
 
