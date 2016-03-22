@@ -1,5 +1,5 @@
 # guerratron.github.io
 guerratron github web site  
 
-visit ["guerratron github proyects" <http://guerratron.github.io>]
+visit <http://guerratron.github.io "guerratron github proyects">
 by Guerratron
