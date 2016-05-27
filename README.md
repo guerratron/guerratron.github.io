@@ -19,4 +19,19 @@ Guerratron GitHub last proyects
 > It's a *HTML* **scripts** loader.  
 > This inserts the linked-scripts parameters in the HTML-HEAD section DYNAMIC and SYNCHRONOUSLY, but without AJAX. It loads Scripts (js, json, ...) and even style sheets (CSS).
 
+## Doctron:
+>[![Doctron logo](img/doctron_logo.png "Doctron GitHub page")](http://guerratron.github.io/Doctron "Doctron page")
+> The **doctron** is a (javascript) *'jsDoc'* template. It is based in **Default template**.  
+> This template has been given a more updated and modern touch, respecting standards and minified some files to load (were deleted the added fonts). It will has incorporated some new features to enhance functionality. It is more versatile than its predecessor by incorporating more configuration options, thus increasing the customization possibility.
+
+## WrapperTracer:
+>[![WrapperTracer logo](img/WrapperTracer_logo.png "WrapperTracer GitHub page")](http://guerratron.github.io/wrapperTracer "WrapperTracer page")
+> It is a class that creates **Javascript** *wrapper* objects to allow *tracking* of the executed methods.  
+> It serve of **TRACER** to obtain a visual representation of methods's execution cycle, as help with information (elapsed time, nesting, methods type, parameters, ...) 
+
+## Testron:
+>[![Testron logo](img/testron_logo.png "Testron GitHub page")](http://guerratron.github.io/Testron "Testron page")
+> It is a **Javascript API** to perform questions of *test* type.  
+> **Testron** can be used as a preparatory method for academic exams. You only need the question file with a valid structure. This file can be **JSON format** (object or string) or **Javascript Object** with one declared variable.  
+
 > Author: [![guerratron](img/torotron_logo.png "by Guerratron")](mailto://dinertron@gmail.com "by Guerratron")
