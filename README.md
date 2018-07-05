@@ -35,7 +35,7 @@ Guerratron GitHub last proyects
 > **Testron** can be used as a preparatory method for academic exams. You only need the question file with a valid structure. This file can be **JSON format** (object or string) or **Javascript Object** with one declared variable.  
 
 ## Ascii-Block:
->[![Ascii-Block logo](img/ascii_block_logo.png "Ascii-Block GitHub page")](http://guerratron.github.io/Ascii-Block "Ascii-Block page")
+>[![Ascii-Block logo](img/ascii_block_logo.png "Ascii-Block GitHub page")](http://guerratron.github.io/ascii-block "Ascii-Block page")
 > It is a 3D game, it's a *Pseudo-Pacman* 3D game, with possibility of design for develop levels  from a text file (*ASCII*).  
 > The interesting thing is that this is a creative game, not just playful. By creating levels here we are building a virtual virtual world where it is more fun to play and the possibilities and difficulty are set by ourselves.  
 > It is designed for two players, this depends on the design of the level; A small buttons menu is also included in the display for the main options. We also have several visual effects and sounds.  
