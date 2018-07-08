@@ -34,6 +34,11 @@ Guerratron GitHub last proyects
 > It is a **Javascript API** to perform questions of *test* type.  
 > **Testron** can be used as a preparatory method for academic exams. You only need the question file with a valid structure. This file can be **JSON format** (object or string) or **Javascript Object** with one declared variable.  
 
+## JSduino:
+>[![JSduino logo](img/JSduino_logo.png "JSduino GitHub page")](http://guerratron.github.io/JSduino "JSduino page")
+> 'JSduino' (web-app) is a great **Arduino simulator** in JS.  
+> It is a web-app written in '*JavaScript*' that emulates an arduino board (**UNO R3**) with the representation of its input and output pins, and the possibility of inserting buttons that act on those pins. These buttons are actuators that can behave like Switches, NO pushbuttons, NC pushbuttons, push-switches, ... or also receivers such as LEDs and sensors.  
+
 ## Ascii-Block:
 >[![Ascii-Block logo](img/ascii_block_logo.png "Ascii-Block GitHub page")](http://guerratron.github.io/ascii-block "Ascii-Block page")
 > It is a 3D game, it's a *Pseudo-Pacman* 3D game, with possibility of design for develop levels  from a text file (*ASCII*).  
