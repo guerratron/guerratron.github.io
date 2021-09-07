@@ -1,5 +1,6 @@
 # guerratron.github.io
 guerratron github web site  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4841de28-7e9a-46b8-9617-f5f673db4794/deploy-status)](https://app.netlify.com/sites/guerratronhub/deploys)
 
 # PROYECTS:
 Guerratron GitHub last proyects
