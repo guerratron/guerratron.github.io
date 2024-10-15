@@ -46,4 +46,15 @@ Guerratron GitHub last proyects
 > The interesting thing is that this is a creative game, not just playful. By creating levels here we are building a virtual virtual world where it is more fun to play and the possibilities and difficulty are set by ourselves.  
 > It is designed for two players, this depends on the design of the level; A small buttons menu is also included in the display for the main options. We also have several visual effects and sounds.  
 
+## Hack-Assembler:
+>[![Hack-Assembler logo](img/hack_assembler_logo.png "Hack-Assembler GitHub page")](http://guerratron.github.io/HackAssembler "Hack-Assembler page")
+> HACK-ASM machine language assembler, both mnemonic (symbolic) and binary, is a HACK-type .asm file assembler with a mini-REPL interface. (It's writed in LUA).  
+> This is the result of the very complete NAND2Tetris course 
+
+## TouchCal:
+>[![TouchCal logo](img/touchcal_logo.png "TouchCal GitHub page")](http://guerratron.github.io/TouchCal "TouchCal page")
+> Touchscreen calibration library. (It's a Arduino touchscreen calibration library)  
+> TouchCal is based on 'XPT2046_Touchscreen', supports three working modes. 
+> .. touch calibration, valid touch pressure, Lissajous figures, and even 'Dark-Mode' without display..
+
 > Author: [![guerratron](img/torotron_logo.png "by Guerratron")](mailto://dinertron@gmail.com "by Guerratron")
